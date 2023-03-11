@@ -4,7 +4,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/result-summary-component-vite-react-oGRNOGnohK)
 - Live Site URL: [GitHub Pages](https://byiroh.github.io/result-summary-component/)
 
 ## Table of contents
